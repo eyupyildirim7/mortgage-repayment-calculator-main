@@ -1,0 +1,10 @@
+body{
+background-color: hsl(202, 86%, 94%);
+}
+.container{
+    max-width: 1440px;
+    border: 1px solid black;
+    display: flex;
+    margin: auto;
+    margin-top: 500px;
+}
